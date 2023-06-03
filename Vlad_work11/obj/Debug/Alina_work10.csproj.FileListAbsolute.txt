@@ -1,0 +1,10 @@
+C:\Users\Curle\source\repos\Alina_work10\bin\Debug\Alina_work10.exe.config
+C:\Users\Curle\source\repos\Alina_work10\bin\Debug\Alina_work10.exe
+C:\Users\Curle\source\repos\Alina_work10\bin\Debug\Alina_work10.pdb
+C:\Users\Curle\source\repos\Alina_work10\obj\Debug\Alina_work10.csproj.AssemblyReference.cache
+C:\Users\Curle\source\repos\Alina_work10\obj\Debug\Alina_work10.Form1.resources
+C:\Users\Curle\source\repos\Alina_work10\obj\Debug\Alina_work10.Properties.Resources.resources
+C:\Users\Curle\source\repos\Alina_work10\obj\Debug\Alina_work10.csproj.GenerateResource.cache
+C:\Users\Curle\source\repos\Alina_work10\obj\Debug\Alina_work10.csproj.CoreCompileInputs.cache
+C:\Users\Curle\source\repos\Alina_work10\obj\Debug\Alina_work10.exe
+C:\Users\Curle\source\repos\Alina_work10\obj\Debug\Alina_work10.pdb
